@@ -1,0 +1,82 @@
+body {
+    background-image: url('fundo.jpg') ;
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+.retangle-box{
+    background-color: rgb(250, 247, 247);
+    height: 600px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 25px;
+    border: solid 10px;
+    width: 350px;
+    margin-top: 20px;
+    
+}
+
+img {
+    
+    margin: 0 auto;
+    height: 450px;
+    margin-top: 50px;
+    border: solid 10px;
+}
+
+ .retangle-box1 {
+    background-color: rgb(0, 0, 0);
+    margin: 0 auto;
+    margin-top: 10px;
+    text-align: center;
+    width: 300px;
+    border-radius: 50px;
+    border: solid 10px wheat;
+
+    }
+
+.logo{
+   height: 300px;
+   border-radius: 150px;
+   border: solid 10px white;
+    
+}
+.quadrado-box{
+    background-color: rgba(14, 13, 13, 0.699);
+    height: 560px;
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 400px;
+    border-radius: 25px;
+    text-align: center;
+    border: solid 10px white;
+    
+}
+
+header{
+    height: 560px;
+    margin-top: 10px;
+    background-color: rgba(251, 253, 253, 0.678);
+
+}
+
+h3{
+    margin-top: 10px;
+    color: aliceblue;
+}
+
+.retangle-box4{
+border-radius: 25px;
+margin-top: 30px;
+background-color: rgb(251, 253, 253);
+height: 150px;
+width: 300px;
+margin-inline: 50px;
+}
+
+p{
+    margin-inline: 50px;
+    margin-top: 0px;
+    
+}
